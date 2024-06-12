@@ -30,7 +30,7 @@ Welcome to this list of project ideas for full-stack developers. Whether you're 
 
 ## Web Development Projects
 
-1. [Personal Portfolio Website.   =>](https://github.com/nkayilovette03/FullStack-Developer-Portfolio) [View Live Demo](https://my-portfolio-website-online.vercel.app/)
+1. [Personal Portfolio Website.](https://github.com/nkayilovette03/FullStack-Developer-Portfolio)   => [View Live Demo](https://my-portfolio-website-online.vercel.app/)
 2. Blogging Platform
 3. E-commerce Website
 4. Social Media Platform
